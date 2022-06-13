@@ -1,0 +1,8 @@
+Link para instalação do Git: http://git-scm.com/
+
+Comandos Básicos
+
+	git init
+	git status
+	git add
+	git commit
